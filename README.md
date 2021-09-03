@@ -6,7 +6,7 @@ Using SQL to analyze Pewlett Hackard's database of employees of the corporation 
 ## Data
 * Pewlett Hackard Department Employees Dataset
 
-## Built With
+## Tools Used
 * PostgreSQL
 * Python
 * SQLAlchemy
